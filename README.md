@@ -1,6 +1,6 @@
 # Hi, I’m @Parveez7
 
-- 👋 Hi, I’m @Parveez7
+- 👋 Hi, I’m Abdul Parveez
 - 👀 I’m interested in AI, Machine Learning, and Web Development.
 - 🌱 I’m currently learning about different AI modules like OpenCV, and also advanced web development in parallel.
 - 💞️ I’m looking to collaborate on any project that makes human lives easier using AI.
